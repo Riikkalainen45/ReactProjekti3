@@ -1,0 +1,20 @@
+
+
+.app {
+  min-height: 100vh;
+  background:  lightslategrey;
+  text-align: center;
+  display: flex;
+
+}
+.country {
+  text-align: center;
+  border-radius: 30px;
+  background: lightgrey;
+  justify-content: space-around;
+  width: 500px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
